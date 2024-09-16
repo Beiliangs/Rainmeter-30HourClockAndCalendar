@@ -13,3 +13,4 @@ A Rainmeter Skinpack which can support 30 hour clock and calendar
 - 因为本人技术有限，无法做到根据屏幕分辨率自动调整大小。所以如果出现与屏幕大小不匹配的情况，请自行修改源码中的Width与Height参数；
 - 同样地，修改参数之后如果出现文字不齐的情况，请自行调整；
 - 请自行修改显示字体
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
