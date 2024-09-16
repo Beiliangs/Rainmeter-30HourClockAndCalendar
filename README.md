@@ -7,4 +7,4 @@ A Rainmeter Skinpack which can support 30 hour clock and calendar
 
 ### 使用方法
 1. 如果你没有安装Rainmeter，请前往[这里](https://www.rainmeter.net/)下载安装；
-2. 下载release里的.rainmeter文件，用Rainmeter打开，按照Rainmeter的要求安装皮肤包
+2. 下载[release](https://github.com/Beiliangs/Rainmeter-30HourClockAndCalendar/releases)里的.rainmeter文件，用Rainmeter打开，按照Rainmeter的要求安装皮肤包
